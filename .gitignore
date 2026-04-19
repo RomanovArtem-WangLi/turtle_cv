@@ -1,0 +1,7 @@
+# Jupyter checkpoint files (автосохранения)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IPython конфигурация
+profile_default/
+ipython_config.py
